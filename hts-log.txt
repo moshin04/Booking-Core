@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Feb 2020 14:51:03 at https://www.bookingcore.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bookingcore.org/ -O1 "C:\My Web Sites\Bookingcore" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:51:32	Warning: 	Link https://www.bookingcore.org/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+14:51:32	Warning: 	Found for https://www.bookingcore.org/?set_currency=eur
+14:51:32	Warning: 	File has moved from https://www.bookingcore.org/?set_currency=eur to https://www.bookingcore.org
+14:51:32	Warning: 	Found for https://www.bookingcore.org/?set_currency=jpy
+14:51:32	Warning: 	File has moved from https://www.bookingcore.org/?set_currency=jpy to https://www.bookingcore.org
+14:59:54	Error: 	"Not Found" (404) at link https://www.bookingcore.org/module/vendor/css/vendor-register.css?_ver=1.5.1 (from https://www.bookingcore.org/page/become-a-vendor)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 39 seconds : 942 links scanned, 938 files written (40456960 bytes overall) [28508674 bytes received at 44614 bytes/sec], 18745686 bytes transferred using HTTP compression in 787 files, ratio 25%, 180.5 requests per connection
+(1 errors, 5 warnings, 0 messages)
